@@ -1,0 +1,7 @@
+@charset "utf-8";
+*{margin: 0;padding: 0;}
+html{font-size: 14px;}
+ul,ol,li,dl,dt,dd{list-style:none}
+a{ text-decoration:none; color:#666;}
+a:hover{ color:#ff6600;text-decoration: underline;}
+em,strong{font-style: normal;}

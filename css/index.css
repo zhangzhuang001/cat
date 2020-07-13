@@ -1,0 +1,394 @@
+ .login{
+    padding-top: 2px;
+    padding-bottom: 2px;
+    border-bottom: 1px solid #6666;
+    overflow: hidden;;
+} 
+.login a,span{
+    float: left;
+    font-size: 12px;
+    font-weight: normal;
+}
+.login h1{
+    margin-right: 10px;
+}
+.login .fl .t a{
+    float: left;
+    width: 20px;
+    height: 20px;
+    background-image: url(../img/index-sp1.png);
+    text-indent: -9999px;
+    margin-right: 8px;
+}
+.login .fr a{
+    float: right;
+    margin-right: 4px;
+    padding-right: 4px;
+    border-right: 1px solid #6666;
+}
+ .login .xz span{
+    float: left;
+    width: 20px;
+    height: 20px;
+    background-image: url(../img/index-sp1.png);
+    text-indent: -9999px;
+    margin-right: 4px; 
+}
+.login h1 a{background-position: -4px -6px;}
+.login .qq a{background-position: -4px -64px;}
+.login .wx a{background-position: -4px -34px;}
+.login .web a{background-position: -4px -92px;}
+.login .tb a{background-position: -4px -121px;}
+.login .xz span{background-position: -46px -9px;}
+/* login结束 */
+
+.nav{
+    height: 100px;
+    
+}
+.nav .w1000,.bar{
+    overflow: hidden;
+}
+.nav h1 a{
+    float: left;
+    width: 123px;
+    height: 70px;
+    margin-top: 15px;
+    background-image: url(../img/nav_logo.png);
+    text-indent: -9999px;
+}
+.nav .bar {
+    padding-top: 45px;
+}
+.nav .bar a{
+    margin-left: 40px;
+}
+/* nav结束 */
+.adImg img {
+    display: block;
+    width: 100%;
+    height: 450px;
+}
+/* adimg 结束 */
+.data{
+    height: 225px;
+    width: 100%;
+    background-color: #eeeeee;
+}
+.data .one{
+    padding-top: 48px;
+    height: 30px;
+    text-align: center;
+}
+.data hr{
+    margin-top: 20px;
+    width: 350px;
+}
+.data h2{
+    font-size: 28px;
+   
+}
+.data .two{
+    overflow: hidden;
+}
+
+.data .two li{
+    height: 120px;
+    width: 310px;
+    background-color: #fff;
+    border-radius: 5px;
+    margin-top: 20px; 
+    margin-right: 35px;
+}
+
+.data .two img{
+    height: 60px;
+    width: 50px;
+    margin:20px;
+    background-image: url(../img/index-sp2.png);
+}
+.data .two div{
+    margin:30px 0;
+}
+.data .two div p{
+    margin-bottom: 20px;
+}
+.data .two .first{
+     background-position: 0 -120px;
+}
+.data .two .second{
+    background-position: 0 -120px;
+}
+.data .two .third{
+    background-position: 0 -120px;
+}
+/* data结束 */
+.safe{
+    overflow: hidden;
+    background-color: #eeeeee;
+}
+.safe .one{
+    overflow: hidden;
+    padding-top: 48px;
+    height: 35px;
+    text-align: center;
+}
+.safe .one hr{
+    width: 155px;
+    margin-top: 20px;
+}
+.safe .one h2{
+    
+    font-size: 28px;
+    margin: 0 145px;
+}
+.safe .two{
+    height: 160px;
+    background-color: #fff;
+    border-radius: 5px;
+    margin: 60px auto;
+}
+.safe .two li{
+    height: 100px;
+    width: 260px;
+    margin: 20px 35px;
+    
+}
+.safe .two img{
+    width: 100px;
+    height: 100px;
+    background-image: url(../img/index-sp2.png);
+    margin-right: 5px;
+}
+.safe .two .first{
+    background-position: -1px -320px;
+}
+.safe .two .second{
+    background-position: -122px -320px;
+}
+.safe .two .third{
+    background-position: -242px -320px;
+}
+.safe .two dl{
+    height: 100px;
+    width: 150px;
+    margin-top: 5px;
+}
+.safe .two dt{
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+.safe .two dd{
+    font-size: 12px;
+}
+.code{
+    height: 475px;
+}
+.code h2{
+    font-size: 32px;
+    margin-top: 60px;
+    margin-bottom: 30px;
+}
+.code .QR{
+    height: 180px;
+}
+.code img{
+    width: 154px;
+    height: 154px;
+}
+.code .down{
+    margin-left: 140px;
+    margin-right: 87px;
+    
+
+}
+.code .download {
+    line-height: 24px;
+    font-size: 14px;
+    margin-top: 40px;
+    color:#aaaa;
+    padding-bottom: 30px;
+    border-bottom:1px solid #6666;
+}
+.code .QR .fl p{
+    text-align: center;
+    font-size: 14px;
+    margin-top: 5px;
+}
+.code .fr .t200{
+    margin-top: 24px;
+    margin-left: 20px;
+    background-image: url(../img/index_bg.png);
+    height: 450px;
+    width: 300px;
+    background-repeat: no-repeat;
+
+}
+/* code结束 */
+.about{
+    height: 475px;
+    background-color: #eeeeee;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.about .w1000{
+    background-color: #fff;
+    overflow: hidden;
+    border-radius: 5px;
+   
+}
+.about h2{
+    font-size: 30px;
+    padding-top: 25px;
+    margin-left: 25px;
+    padding-bottom: 10px;
+    margin-right: 25px;
+    border-bottom: 1px solid #eeeeee;
+}
+.about .news div{
+    overflow: hidden;
+    margin-left: 25px;
+    margin-right: 25px;
+    margin-top: 22px;
+}
+.about .news h3{
+    font-size: 18px;
+}
+.about .news .title{
+    width: 430px;
+
+    border-bottom: 1px solid #eeeeee;
+}
+.about .news .newspaper{
+    overflow: hidden;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+.about .newspaper ul{
+    width: 430px;
+}
+.about .newspaper a{
+    width: 430px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;   
+}
+.about .newspaper p{
+    font-size: 14px;
+}
+.about.honour{
+    clear: both;
+    
+}
+.about .honour div{
+    display: flex;
+    margin-left: 25px;
+    margin-right: 25px;
+    margin-top: 22px;
+    justify-content: space-between;
+}
+.about .honour ul{
+    margin-left: 25px;
+    margin-right: 25px;
+    margin-top: 22px;
+    display: flex;
+    justify-content: space-between;
+}
+.about .honour li{
+    text-align: center;
+    margin-bottom: 40px;
+}
+.about .honour img{
+    height: 124px;
+}
+.about .honour li p{
+    font-size: 14px;
+    color:#666666;
+}
+.footer{
+    font-size: 14px;
+    color:#666666;
+    background-color: #e2e2e2;
+}
+.footer ul{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 40px;
+
+}
+.footer em{
+    font-size: 20px;
+}
+.footer .email{
+    margin-bottom: 25px;
+}
+.footer .time{
+    margin-left: 60px;
+    margin-top: 15px;
+}
+.footer .help p{
+    margin-bottom: 25px;
+}
+.footer .help a:hover{
+    text-decoration: none;
+    
+}
+.footer .app div{
+    margin-bottom: 10px;
+}
+.footer .android a{
+    display: block;
+    width: 88px;
+    height: 25px;
+    background-image: url(../img/index-sp1.png);
+    background-position: 0 -251px;
+
+}
+.footer .apple a{
+    display: block;
+    width: 88px;
+    height: 25px;
+    background-image: url(../img/index-sp1.png);
+    background-position: 0 -179px;
+}
+.footer .QR{
+    float: left;
+    
+}
+.footer .QR img{
+    width: 126px;
+    height: 126px;
+}
+.footer .app{
+    float: left;
+    margin-right:35px;
+}
+.footer .two ul{
+    /* border:1px solid red; */
+    display:flex;
+    justify-content: center;
+}
+.footer .two li{
+    height: 30px;
+    width: 83px;
+    background-image: url("../img/index-sp1.png");
+    margin-right: 60px;
+}
+.footer .two .f1{
+    background-position: 0 -331px;
+}
+.footer .two .f2{
+    background-position: 0 -375px;
+}
+.footer .two .f3{
+    background-position: 0 -420px;
+}
+.footer .two .f4{
+    background-position: 0 -458px;
+}
+.footer .three p{
+    margin-top: 15px;
+    text-align: center;
+}
+
